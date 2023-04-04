@@ -1,0 +1,13 @@
+.links{
+    float: right;
+}
+
+.links a {
+    text-decoration: none;
+}
+
+header{
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.5em 1em;
+}
